@@ -1,0 +1,11 @@
+
+
+
+instans = NewtonJS(canvas)
+
+while true:
+    instans.tick
+    instans.draw
+
+
+
